@@ -7,4 +7,3 @@ This application is a personal, self-hosted tool run by its owner on their own c
 - No analytics, tracking or advertising services are used.
 - Tokens can be revoked at any time from the connected platform's settings, and all stored data is deleted by removing the app's local database.
 
-Contact: maplegms01@gmail.com

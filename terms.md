@@ -7,4 +7,3 @@ This application is a personal, self-hosted social media scheduling tool used by
 - Use of the connected platforms is subject to each platform's own terms.
 - The app may be changed or discontinued at any time without notice.
 
-Contact: maplegms01@gmail.com
